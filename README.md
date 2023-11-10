@@ -2,7 +2,7 @@
 
 Actualizar el sistema
 ```bash
-pkg update && uograde -y
+pkg update && upgrade -y
 ```
 instalar programas necesarios
 ```bash
@@ -41,7 +41,7 @@ De la siguiente página descargar la última versión del apk
 https://f-droid.org/es/packages/com.termux.styling/
 ```
 
-Luego de descargado he instalarlo, reiniciar termux, luego mantener oprimida la pantalla hasta que salgan las opciones (copy, paste, more...) escoger "more..." de la ventana emergente escoger Style. Hay llegamos a los boten es para escoger fuente y para escoger el color de la terminal
+Luego de descargado he instalarlo, reiniciar termux, luego mantener oprimida la pantalla hasta que salgan las opciones (copy, paste, more...) escoger `more...` de la ventana emergente escoger Style. Hay llegamos a los boten es para escoger fuente y para escoger el color de la terminal
 
 # cambiar el motd (mensaje de inicio de termux) 
 
