@@ -53,4 +53,4 @@ cd ../usr/etc/
 vim motd.sh
 ```
 
-Estando en vim elimime su contenido y cree uno a su medida
+Estando en vim elimime su contenido y cree un mensaje a su medida
