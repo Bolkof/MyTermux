@@ -26,7 +26,7 @@ Cambiar el tema que viene por defecto por la  palabra fino
 ```
 ZSH_THEME="fino"
 ```
-Si quiere escoger otro tema y sabes el nombre con  el comando 'omz theme list'.
+Si quiere escoger otro tema y sabes el nombre con  el comando 'omz theme list'. o usar el que está en este reposito y guardarlo en la carpeta .oh-my-zsh/  y cambiar ZSH_THEME con el nombre que le alas colocado sin el '.zsh-theme'
 
 Para más personalizaciones de oh-my-zsh
 ```
